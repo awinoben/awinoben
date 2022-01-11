@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awinoben
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Electron.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Application projects
 - 📫 How to reach me: papasofts@gmail.com
 
