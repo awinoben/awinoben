@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awinoben
+- 👋 Hi, I’m Ben Awino
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Application projects
