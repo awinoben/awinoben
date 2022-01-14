@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Awino
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Azure Cloud Services
+- 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on Web Application projects
 - 📫 How to reach me: papasofts@gmail.com
 
