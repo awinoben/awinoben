@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on Web Application projects
-- 📫 How to reach me: papasofts@gmail.com
+- 📫 How to reach me: bernardawino@gmail.com
 
 <!---
 awinoben/awinoben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
